@@ -3,9 +3,12 @@
 # 구글밋: https://meet.google.com/oib-ruww-cqe
 
 ## 데이터 출처:
-  KBO 기록실: https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx
-  스탯티즈: http://www.statiz.co.kr/main.php
-  투구 데이터: https://strikes.zone/game/200830SS
+<ol>
+<li>KBO 기록실: https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx</li>
+<li>스탯티즈: http://www.statiz.co.kr/main.php</li>
+<li>투구 데이터: https://strikes.zone/game/200830SS</li>
+</ol>
+
 
 
 ## 분석하고 싶은 것:
