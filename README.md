@@ -23,3 +23,17 @@
 ## 데이터를 얻는 과정
   KBO 공식 홈페이지에서 선수들의 기록들을 보여주고 있었지만, csv 파일의 형태로 제공하고 있지는 않았다. 그래서 크롤링이 필요했다. 
   ![ex_screenshot](./image/17.PNG)
+  
+
+## 데이터를 얻고나서 알고 싶은 사항에 대해 EDA 및 시각화를 하였다
+  ![ex_screenshot](./image/0.PNG)
+  ![ex_screenshot](./image/1.PNG)
+  ![ex_screenshot](./image/2.PNG)
+  ![ex_screenshot](./image/3.PNG)
+  ![ex_screenshot](./image/4.PNG)
+  ![ex_screenshot](./image/5.PNG)
+  ![ex_screenshot](./image/6.PNG)
+  ![ex_screenshot](./image/7.PNG)
+  ![ex_screenshot](./image/8.PNG)
+  ![ex_screenshot](./image/9.PNG)
+  
