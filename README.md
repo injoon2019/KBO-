@@ -7,6 +7,7 @@
 <li>KBO 기록실: https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx</li>
 <li>스탯티즈: http://www.statiz.co.kr/main.php</li>
 <li>투구 데이터: https://strikes.zone/game/200830SS</li>
+<li>DACON 타자 데이터: https://dacon.io/competitions/official/235546/data/
 </ol>
 
 
